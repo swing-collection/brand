@@ -1,0 +1,14 @@
+{
+    "name": "@swing-collection/brand",
+    "version": "0.0.1",
+    "description": "Brand assets, resources and visual identity guide for the Swing collection. Inside you'll find all the brand tools you'll need to build with the community.    ",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/swing-collection/brand"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Scape Agency"
+}
